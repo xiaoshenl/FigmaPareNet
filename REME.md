@@ -1,0 +1,1 @@
+﻿Parsing the node's information through Figma's backend api information, including css style
