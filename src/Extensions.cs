@@ -17,8 +17,8 @@ namespace FigmaPareNet
             {
                 throw new Exception("Figma configuration is missing");
             }
-
-            services.AddScoped<IFigmaClient, FigmaClient>();
+            services.AddHttpClient();
+            services.AddTransient<IFigmaClient, FigmaClient>();
             services.AddScoped<IFigmaPareService, FigmaPareService>();
 
             return services;
