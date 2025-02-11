@@ -8,7 +8,7 @@
 		
 		<!-- NuGet Package Information -->
 		<PackageId>FigmaPareNet</PackageId>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<Authors>FigmaPareNet</Authors>
 		<Description>A .NET library for parsing Figma node information through Figma's backend API, including CSS styles.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
