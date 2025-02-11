@@ -10,6 +10,7 @@
 		<PackageId>FigmaPareNet</PackageId>
 		<Version>1.0.1</Version>
 		<Authors>FigmaPareNet</Authors>
+		<RepositoryUrl>https://github.com/xiaoshenl/FigmaPareNet</RepositoryUrl>
 		<Description>A .NET library for parsing Figma node information through Figma's backend API, including CSS styles.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
